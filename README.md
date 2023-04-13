@@ -16,7 +16,7 @@ cd smartfitcoach
 pip install -r requirements.txt
 ```
 
-> **Note** \
+> **Note** 
 > 
 >  The video names in the path `video/session1` must follow the format "1-FileName". If you need to add new videos, you need to run `process_video.py` and edit the path yourself.
 
